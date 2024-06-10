@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roandyell Khen Dagoy</h1>
-<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUzeDhxbXluYjc4Zngzd3FoeGV0YTU4NXBxZG51bnprNDh2ejY1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roandyelldagoy&label=Profile%20views&color=0e75b6&style=flat" alt="roandyelldagoy" /> </p>
 
-- 🌱 I’m currently learning **Express JS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
