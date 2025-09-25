@@ -14,21 +14,10 @@
 - 🎯 To become a **proficient programmer**.
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://fb.com/roandyellkhen.dagoy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/roandyell_khen_dagoy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,ts,react,nodejs,express,php,laravel,mysql,postgresql,mongodb,python,sklearn,git,linux,figma,tailwind,postman,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,php,laravel,mysql,postgresql,mongodb,python,sklearn,git,linux,figma,tailwind,postman,ai,ps" />
 </p>
 
 ---
