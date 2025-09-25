@@ -9,16 +9,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 Fresh graduate in **Computer Science**
-- 🌱 Currently learning **Full-Stack Development** (React, Laravel, Node.js, PHP, TypeScript, **WordPress**)  
+- 🌱 Currently learning **Full-Stack Development** (React, Laravel, PHP, **WordPress**)  
 - ⚡ Interested in **Web Development, AI, and Data Science**
 - 🎯 To become a **proficient programmer**.
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roandyelldagoy&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
