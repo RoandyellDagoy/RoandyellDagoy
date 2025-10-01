@@ -6,10 +6,10 @@
 </p>
 
 ### 👨‍💻 About Me
-🎓 Fresh graduate in **Computer Science**
-🌱 Currently learning **Full-Stack Development** (React ,PHP, **WordPress**)  
-⚡ Interested in **Web Development and AI**
-🎯 To become a **proficient programmer**.
+* 🎓 Fresh graduate in **Computer Science**
+* 🌱 Currently learning **Full-Stack Development** (React ,PHP, **WordPress**)
+* ⚡ Interested in **Web Development and AI**
+* 🎯 To become a **proficient programmer**.
 
 ### 🛠️ Languages & Tools
 <p align="center">
