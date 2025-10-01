@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,mysql,postgresql,mongodb,sklearn,git,linux,figma,tailwind,postman,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,mysql,postgresql,mongodb,sklearn,git,linux,figma,tailwind,postman,ai,ps" />
 </p>
 
 ### 📊 GitHub Stats
