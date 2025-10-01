@@ -29,5 +29,3 @@
 ### 🚀 Featured Projects
 - 🔹 [Esports Match Prediction Model](#) – Binary classification of esports match durations using ML
 - 🔹 [Portfolio Website](#) – Built with HTML, CSS, and JavaScript
-
-⭐️ From [Roandyell Khen](https://github.com/roandyelldagoy)
